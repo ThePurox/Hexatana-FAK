@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "s-ol")(type "KiCad")(uri "/home/nico/projects/keyboards/s-ol/s-ol.kicad_sym")(options "")(descr ""))
+)
